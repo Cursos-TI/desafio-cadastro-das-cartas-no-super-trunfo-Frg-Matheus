@@ -4,6 +4,7 @@
 
 int main()
 {
+    /* Carta 1 */
     int n_populacao, ponto_turistico;
     char nome_estado[50], nome_cidade[50], cod_carta[50];
     float area_km, pib;
