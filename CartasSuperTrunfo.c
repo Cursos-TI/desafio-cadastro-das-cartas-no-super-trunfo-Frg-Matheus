@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/* Desafio Novato */
+/* Desafio Cartas SuperTrunfo */
+/* Nivel Inicial */
 
 int main()
 {
